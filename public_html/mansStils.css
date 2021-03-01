@@ -1,0 +1,23 @@
+body {
+ background-image: url("sniegs.jpg");
+}
+h2 {
+  color: goldenrod;
+  background-color: aqua;
+  font-size: 40px;
+}
+
+th {
+    color: black;
+     font: cursive;
+    font-size: 36px;
+}
+td {
+    color: black;
+    font: caption;
+    font-size: 28px;
+     
+}
+table, th, td{
+    border: 5px solid black ;
+}
